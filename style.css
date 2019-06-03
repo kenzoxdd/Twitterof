@@ -1,0 +1,32 @@
+.top{
+	height: 100px;
+	background-color:white;
+}
+body{
+	font-family: arial
+}
+.top{
+	height: 50px;
+}
+.mrt{
+	margin-top: 50px
+}
+.txt{
+	text-align: center;
+}
+.mrgn{
+	margin-left: auto;
+	margin-right: auto;
+}
+.mrgr{
+	margin-right:1px;
+}
+.h6{
+	margin-top:19px;
+	font-size:10px;
+	color:blue;
+}
+.h5{
+	margin-left:25px;
+	font-size:17px;
+}
